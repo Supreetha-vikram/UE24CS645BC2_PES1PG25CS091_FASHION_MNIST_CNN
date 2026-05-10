@@ -1,6 +1,6 @@
 # Fashion MNIST CNN using Deep Learning
 
-- **Course:** Deep Learning Techniques and Practice
+- **Course:** Deep Learning Theory and Practices
 - **Assignment:** CNN Implementation using Fashion MNIST
 - **SRN:** PES1PG25CS091
 
