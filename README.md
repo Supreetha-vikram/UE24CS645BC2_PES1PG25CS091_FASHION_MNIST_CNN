@@ -4,7 +4,7 @@
 
 - **Course:** Deep Learning Techniques and Practice
 - **Assignment:** CNN Implementation using Fashion MNIST
-- **USN:** PES1PG25CS091
+- **SRN:** PES1PG25CS091
 
 ---
 
